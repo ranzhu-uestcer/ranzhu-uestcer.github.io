@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedestrian Positioning | Ran&#39;s homepage</title>
+    <link>/tag/pedestrian-positioning/</link>
+      <atom:link href="/tag/pedestrian-positioning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedestrian Positioning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu16c63ed691b94f34c26f101cdd169e83_102700_512x512_fill_lanczos_center_2.png</url>
+      <title>Pedestrian Positioning</title>
+      <link>/tag/pedestrian-positioning/</link>
+    </image>
+    
+    <item>
+      <title>Visual Inertial Map Matching</title>
+      <link>/project/project5/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/project5/</guid>
+      <description>&lt;p&gt;This work focuses on map-based deployment-independent indoor positioning. Due to the fact that most existing map matching methods rely on the external information of prior site survey or initial positions provided by users, we explore a novel strategy for performing deployment-independent indoor positioning without considering start points. Here, we adopt easily accessible information such as floor plan and real-time video captured by smartphones to determine the location of the pedestrian for the following tracking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zero Velocity Detection</title>
+      <link>/project/project2/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/project2/</guid>
+      <description>&lt;p&gt;Based on the fundamentals of human bipedal motion, Zero Velocity Update (ZUPT) is a pervasive approach in Pedestrian dead reckoning (PDR) to tackle the accumulated error of IMU. The key to ZUPT is precise zero velocity detection that distinguishes the stationary phase from each stride. Besides, due to the complex differences in pedestrian motion patterns, the hope is that the zero velocity detector becomes robust for various individuals. We present a novel approach leveraging deep learning (DL) to detect zero velocity adaptively. Trained by massive foot-mounted IMU data from different individuals, the symmetrical Recurrent Convolutional Neural Network (RCNNs) can effectively learn the gait law because the model takes the information from forward to backward of the undetermined time instant into consideration.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

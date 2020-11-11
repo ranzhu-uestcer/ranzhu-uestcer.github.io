@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Robotics | Ran&#39;s homepage</title>
+    <link>/tag/mobile-robotics/</link>
+      <atom:link href="/tag/mobile-robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mobile Robotics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu16c63ed691b94f34c26f101cdd169e83_102700_512x512_fill_lanczos_center_2.png</url>
+      <title>Mobile Robotics</title>
+      <link>/tag/mobile-robotics/</link>
+    </image>
+    
+    <item>
+      <title>Visual Odometry</title>
+      <link>/project/project3/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/project3/</guid>
+      <description>&lt;p&gt;To build an intelligent robotic positioning system that can more efficiently deal with the traditional SLAM problems such as camera calibration, monocular scale ambiguity, we explore a novel strategy for performing visual ego-motion estimation based on deep learning. Here, we extend the model into four branches focusing on pixels movement in different directions in the optical flow and then regress the global feature concatenated from the four outputs to obtain F2F motion estimation. In particular, features extracted by each branch have been distilled by using the attention mechanism to refine estimation. Experiments on the KITTI and Malaga benchmark datasets demonstrate that the proposed model outperforms state-of-the-art monocular methods by a large margin and produces competitive results against the classic stereo VO algorithm, which also highlights its promising generalization ability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loop Closure Detection</title>
+      <link>/project/project4/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/project4/</guid>
+      <description>&lt;p&gt;Loop Closure Detection (LCD), considered a key optimization part in the visual SLAM system, aims to recognize the places where a mobile robot previously visited. Correct loop closure detection benefits visual SLAM systems a lot because it can significantly reduce the position errors that accumulate over time. It enables the system to build a consistent map of the environment. We introduce the adaptive weighted similarity matrix by combining the feature extraction module and similarity measurement module to focus on changing appearance over time. Experiments on three typical open datasets are conducted to verify the feasibility of the proposed model.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

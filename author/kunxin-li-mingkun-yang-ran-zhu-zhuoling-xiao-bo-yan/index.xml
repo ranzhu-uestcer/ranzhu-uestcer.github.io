@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kunxin Li, Mingkun Yang, Ran Zhu, Zhuoling Xiao, Bo Yan | Ran&#39;s homepage</title>
+    <link>/author/kunxin-li-mingkun-yang-ran-zhu-zhuoling-xiao-bo-yan/</link>
+      <atom:link href="/author/kunxin-li-mingkun-yang-ran-zhu-zhuoling-xiao-bo-yan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kunxin Li, Mingkun Yang, Ran Zhu, Zhuoling Xiao, Bo Yan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu16c63ed691b94f34c26f101cdd169e83_102700_512x512_fill_lanczos_center_2.png</url>
+      <title>Kunxin Li, Mingkun Yang, Ran Zhu, Zhuoling Xiao, Bo Yan</title>
+      <link>/author/kunxin-li-mingkun-yang-ran-zhu-zhuoling-xiao-bo-yan/</link>
+    </image>
+    
+    <item>
+      <title>Visual Inertial Map Matching for Indoor Positioning using Architectural Constraints</title>
+      <link>/publication/project6/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/project6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

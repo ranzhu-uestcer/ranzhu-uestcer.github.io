@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Ran&#39;s homepage</title>
+    <link>/tag/deep-learning/</link>
+      <atom:link href="/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu16c63ed691b94f34c26f101cdd169e83_102700_512x512_fill_lanczos_center_2.png</url>
+      <title>Deep Learning</title>
+      <link>/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Human Activity Recognition</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/project1/</guid>
+      <description>&lt;p&gt;The proliferation of smartphones has significantly facilitated people’s life, and diverse and powerful embedded sensors make the smartphone a ubiquitous platform to acquire and analyze data, which also provides great potential for efficient human activity recognition. We propose a learning-based ensemble model to improve the recognition accuracy of human activities, especially those that are easily confused. In order to make the model more robust and generalized, a huge amount of motion data, including 100 participants aging from 12 to 51, is collected using ordinary smartphones at a sampling rate of 50Hz. This dataset contains 7 motion modes in 4 smartphone placements under 2 different collection platforms (IOS and Android).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

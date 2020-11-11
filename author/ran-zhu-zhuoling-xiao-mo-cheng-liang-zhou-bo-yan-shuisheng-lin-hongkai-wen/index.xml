@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ran Zhu, Zhuoling Xiao, Mo Cheng, Liang Zhou, Bo Yan, Shuisheng Lin, Hongkai Wen | Ran&#39;s homepage</title>
+    <link>/author/ran-zhu-zhuoling-xiao-mo-cheng-liang-zhou-bo-yan-shuisheng-lin-hongkai-wen/</link>
+      <atom:link href="/author/ran-zhu-zhuoling-xiao-mo-cheng-liang-zhou-bo-yan-shuisheng-lin-hongkai-wen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ran Zhu, Zhuoling Xiao, Mo Cheng, Liang Zhou, Bo Yan, Shuisheng Lin, Hongkai Wen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu16c63ed691b94f34c26f101cdd169e83_102700_512x512_fill_lanczos_center_2.png</url>
+      <title>Ran Zhu, Zhuoling Xiao, Mo Cheng, Liang Zhou, Bo Yan, Shuisheng Lin, Hongkai Wen</title>
+      <link>/author/ran-zhu-zhuoling-xiao-mo-cheng-liang-zhou-bo-yan-shuisheng-lin-hongkai-wen/</link>
+    </image>
+    
+    <item>
+      <title>Deep Ensemble Learning for Human Activity Recognition Using Smartphone</title>
+      <link>/publication/project7/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/project7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
